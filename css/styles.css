@@ -83,6 +83,7 @@ ul#nav li strong {
     display: -moz-box;
     display: box;
 	text-align:center;
+	width:100%;
 }
 
 .header-button {
