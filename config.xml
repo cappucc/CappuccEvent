@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "ch.blueleaf.employeedirectory"
+        id          = "ch.blueleaf.cappuccevent"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.0.0">
  
     <name>Employee Directory</name>
  
     <description>
-        A simple employee directory application
+        List of participants, agenda for the conference.
     </description>
  
     <author href="http://www.blueleaf.ch" email="info@blueleaf.ch">
         Mehdi El Ghaziani
     </author>
+	
+	<!-- APP ICONS -->
+	<icon src="icons/android/ldpi.png" gap:platform="android" gap:density="ldpi" />
+	<icon src="icons/android/mdpi.png" gap:platform="android" gap:density="mdpi" />
+	<icon src="icons/android/hdpi.png" gap:platform="android" gap:density="hdpi" />
+	<icon src="icons/android/xhdpi.png" gap:platform="android" gap:density="xhdpi" />
  
     <feature name="http://api.phonegap.com/1.0/camera"/>
     <feature name="http://api.phonegap.com/1.0/contacts"/>
