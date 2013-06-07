@@ -59,10 +59,15 @@ ul#nav li {
 	text-align:center;
 }
 
+ul#nav li a {
+	display:block;
+}
+
 ul#nav li img {
 	margin:0 auto;
 	width:71px;
 	height:56px;
+	display:block;
 }
 
 ul#nav li strong {
