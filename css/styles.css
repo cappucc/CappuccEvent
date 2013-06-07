@@ -54,9 +54,9 @@ header h1 {
 }
 
 ul#nav li {
-	float:left;
-	width:50%;
+	width:100%;
 	text-align:center;
+	margin-bottom:20px;
 }
 
 ul#nav li a {
