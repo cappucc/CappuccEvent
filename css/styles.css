@@ -73,15 +73,11 @@ ul#nav li img {
 
 ul#nav li strong {
 	color: #FFFFFF;
-	display: block;
 	font-size: 24px;
 	line-height: 24px;
 	padding-bottom: 24px;
 	text-shadow: 0 1px #0A76A9;
 	text-transform: uppercase;
-    display: -webkit-box;
-    display: -moz-box;
-    display: box;
 	text-align:center;
 	width:100%;
 }
